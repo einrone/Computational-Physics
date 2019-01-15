@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Introduction:}{}% 1
+\BOOKMARK [1][-]{section.2}{Theoretical Model:}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Jacobi rotation:}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Schr\366edinger Equation:}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Schr\366edinger's equation and the eigenvalue problem:}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{boundary conditions:}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Method}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Algorithm}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Unit tests}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Parameters}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Results}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Efficiency}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Ground state eigenfunctions}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Discussion}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Efficiency}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Groundstate eigenfunctions}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{For future work}{section.6}% 18
